@@ -4,3 +4,4 @@ there are som few medical equipmet need to improve medical sector.
 incubators
 portable ultrasound
 solar powerd oxygen concentration
+data anaysis 
